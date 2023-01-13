@@ -14,7 +14,7 @@ SkyHub is a website that gives you the chance to be part of the airline industry
 
 <br>
 <br>
-<br>
+
 
 
 SkyHub facilitates the process of finding jobs in the area, by reuniting not only offers in the airline industry, but giving information about companies part of it as well. Think of Skyhub, as a hub for everybody that loves flying! If you are studying, for example, and want to know a bit more about salaries and perks for your future job, or if you are simply a worker in the area, our website is for you!
@@ -43,7 +43,7 @@ Sound interesting? Let's take a flight together then!
 
 <br>
 <br>
-<br>
+
 
 
 Founders:
@@ -54,7 +54,7 @@ Philipp Hochstetter.
 
 
 
-Contributors:
+##Contributors:
 João Mota: https://github.com/joaoefmota ;
 <br>
 Isamu Schlothauer: https://github.com/isaschlothauer ;

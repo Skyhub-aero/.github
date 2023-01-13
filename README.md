@@ -10,7 +10,7 @@ SkyHub is a website that gives you the chance to be part of the airline industry
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110616195/212265551-b4511284-892d-4097-8bf7-79821e03b1e0.png" alt="animated" />
 </p>
-![ca7515fa-737e-48a9-bc94-8c929e06ca64](https://user-images.githubusercontent.com/110616195/212265551-b4511284-892d-4097-8bf7-79821e03b1e0.png)
+
 
 <br>
 <br>
@@ -36,8 +36,10 @@ Sound interesting? Let's take a flight together then!
 <br>
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110616195/212265621-2967f9f4-2967-4223-abfd-bca811e5b9a2.gif" alt="animated" />
+</p>
 
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp![PlaneGIF](https://user-images.githubusercontent.com/110616195/212265621-2967f9f4-2967-4223-abfd-bca811e5b9a2.gif)
 
 <br>
 <br>

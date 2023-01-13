@@ -37,7 +37,11 @@ Philipp Hochstetter.
 
 Contributors:
 João Mota: https://github.com/joaoefmota ;
+<br>
 Isamu Schlothauer: https://github.com/isaschlothauer ;
+<br>
 Iryna Kukuruza: https://github.com/Kukuruzka1 ;
+<br>
 Diogo Guilherme: https://github.com/DiogoG8 ;
+<br>
 Elif Gömleksiz: https://github.com/elifPeriza .

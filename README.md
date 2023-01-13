@@ -30,7 +30,9 @@ Sound interesting? Let's take a flight together then!
 
 
 Founders:
+<br>
 David Alexander Pffeifer;
+<br>
 Philipp Hochstetter.
 
 

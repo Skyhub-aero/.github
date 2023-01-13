@@ -25,11 +25,11 @@ Not only we provide you the best information regarding the airline industry, but
 
 
 
-Skyhub’s website was built under tools like Next.js and TypeScript, using some extra packages like Tailwind or StoryBook. The goal was to mantain a clean and fresh code, up to today standards.
+Skyhub’s website was built under tools like ***Next.js*** and ***TypeScript***, using some extra packages like ***Tailwind*** or ***StoryBook***. The goal was to mantain a clean and fresh code, up to today standards.
 
 
 
-Sound interesting? Let's take a flight together then!
+Sound interesting? ***Let's take a flight together then!***
 
 <br>
 <br>
@@ -46,15 +46,14 @@ Sound interesting? Let's take a flight together then!
 
 
 
-Founders:
+**Founders**:
 <br>
-David Alexander Pffeifer;
+David Alexander Pffeifer: https://github.com/davidmc971;
 <br>
 Philipp Hochstetter.
 
 
-
-##Contributors:
+**Contributors**:
 João Mota: https://github.com/joaoefmota ;
 <br>
 Isamu Schlothauer: https://github.com/isaschlothauer ;

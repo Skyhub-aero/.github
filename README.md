@@ -1,11 +1,11 @@
-What is SkyHub? ✈️
+<h1> What is SkyHub? </h1> ✈️
 
 
 SkyHub is a website that gives you the chance to be part of the airline industry. This industry is not easy get in, competitive and with a large shortage of jobs; that is where SkyHub flies in!
 
 
 
-![ca7515fa-737e-48a9-bc94-8c929e06ca64](https://user-images.githubusercontent.com/110616195/212265551-b4511284-892d-4097-8bf7-79821e03b1e0.png)
+<p align="center"">![ca7515fa-737e-48a9-bc94-8c929e06ca64](https://user-images.githubusercontent.com/110616195/212265551-b4511284-892d-4097-8bf7-79821e03b1e0.png)</p>
 
 
 
